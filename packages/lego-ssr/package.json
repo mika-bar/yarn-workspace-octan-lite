@@ -24,7 +24,7 @@
     "@babel/runtime": "^7.0.0",
     "@babel/runtime-corejs2": "^7.0.0",
     "babel-plugin-universal-import": "^4.0.0",
-    "compression": "^1.7.2",
+    "compression": "^1.8.1",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
